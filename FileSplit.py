@@ -62,7 +62,7 @@ ___________.__.__           _________      .__  .__  __
  \\___  /   |__|____/\\___  >_______  /   __/|____/__||__|  
      \\/                 \\/        \\/|__|           
     """)
-    print("version 0.1\n")
+    print(f"version {__version__}\n")
 
 # Retrieve and return output file max lines from input
 def get_max_lines():
