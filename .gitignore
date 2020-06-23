@@ -1,2 +1,4 @@
 dist
 build
+FileSplit.spec
+__pycache__
